@@ -19,7 +19,7 @@ def assign_rooms(attendees)
     new_array << "Hello, #{name}! You'll be assigned to room #{counter}!"
     counter += 1 
   end
-  return new_array
+  new_array
 end
 
 def printer(array)
