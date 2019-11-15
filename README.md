@@ -1,4 +1,4 @@
-# Badges and Schedules
+help# Badges and Schedules
 
 ## Objectives
 
